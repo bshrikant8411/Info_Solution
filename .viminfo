@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1689347983,,"wq"
+|2,0,1689422963,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,49 @@
 # Registers:
 
 # File marks:
-'0  3  0  ~/.gitignore
-|4,48,3,0,1689347983,"~/.gitignore"
-'1  6  0  ~/varad.txt
-|4,49,6,0,1689347718,"~/varad.txt"
+'0  1  40  ~/stash.txt
+|4,48,1,40,1689422963,"~/stash.txt"
+'1  3  0  ~/.gitignore
+|4,49,3,0,1689347983,"~/.gitignore"
+'2  6  0  ~/varad.txt
+|4,50,6,0,1689347718,"~/varad.txt"
 
 # Jumplist (newest first):
+-'  1  40  ~/stash.txt
+|4,39,1,40,1689422963,"~/stash.txt"
 -'  3  0  ~/.gitignore
 |4,39,3,0,1689347983,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1689347983,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1689347947,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1689347947,"~/.gitignore"
 -'  6  0  ~/varad.txt
 |4,39,6,0,1689347718,"~/varad.txt"
 -'  6  0  ~/varad.txt
 |4,39,6,0,1689347718,"~/varad.txt"
+-'  6  0  ~/varad.txt
+|4,39,6,0,1689347718,"~/varad.txt"
+-'  6  0  ~/varad.txt
+|4,39,6,0,1689347718,"~/varad.txt"
+-'  1  0  ~/varad.txt
+|4,39,1,0,1689347680,"~/varad.txt"
+-'  1  0  ~/varad.txt
+|4,39,1,0,1689347680,"~/varad.txt"
 -'  1  0  ~/varad.txt
 |4,39,1,0,1689347680,"~/varad.txt"
 -'  1  0  ~/varad.txt
 |4,39,1,0,1689347680,"~/varad.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/stash.txt
+	*	1689422961	0
+	"	1	40
+	^	1	41
+	.	1	40
+	+	1	40
 
 > ~/.gitignore
 	*	1689347980	0
